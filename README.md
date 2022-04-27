@@ -3,7 +3,7 @@
 ### Folder structure
 - The `replicate_tables.py` file contains the source code/script that runs the extraction & exportation
 - The `source` folder contains the source PDF document
-- The `tables` folder contains the extracted tables (CSV format)
+- The `tables` folder contains the extracted tables (Excel .xlsx format)
 - The `requirements.txt` text file contains a list of the required pip3 dependencies
 
 ### Environment setup
